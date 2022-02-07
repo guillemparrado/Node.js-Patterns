@@ -1,3 +1,6 @@
+# outbox folder (callback hell)
+**/outbox/*
+
 # IDE
 .idea
 
