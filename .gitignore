@@ -1,5 +1,6 @@
-# outbox folder (callback hell)
+# outbox folder (callback hell): tots els files menys el placeholder
 **/outbox/*
+!**/outbox/placeholder
 
 # IDE
 .idea

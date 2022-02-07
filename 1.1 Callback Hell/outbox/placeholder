@@ -1,0 +1,2 @@
+Carpeta outbox ha d'existir i sense cap arxiu a dins no es crea en fer git commit.
+Faig commit d'aquest arxiu perquè no s'hagi de crear la carpeta de manera manual.
