@@ -1,0 +1,17 @@
+{
+  "operations": [
+    {
+      "left": 2,
+      "right": 1,
+      "operation": "suma"
+    }, {
+      "left": 15,
+      "right": 3,
+      "operation": "resta"
+    },{
+      "left": 2,
+      "right": 4,
+      "operation": "multiplicació"
+    }
+  ]
+}
