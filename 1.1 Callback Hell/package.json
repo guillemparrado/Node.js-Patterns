@@ -6,6 +6,7 @@
   },
   "scripts": {
     "hell": "node callback_hell.js",
-    "solucio": "node solució.js"
+    "solucio": "node solució.js",
+    "alternativa": "node solució_alternativa.js"
   }
 }
