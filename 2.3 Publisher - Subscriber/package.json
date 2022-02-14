@@ -1,0 +1,11 @@
+{
+  "name": "publisher-subscriber",
+  "version": "1.0.0",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  },
+  "scripts": {
+    "publisher": "node Publisher.js",
+    "subscriber": "node Subscriber.js"
+  }
+}
