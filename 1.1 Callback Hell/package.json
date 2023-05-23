@@ -1,12 +1,8 @@
 {
   "name": "callback_hell",
   "version": "1.0.0",
-  "dependencies": {
-    "async": "^3.2.3"
-  },
   "scripts": {
     "hell": "node callback_hell.js",
-    "solucio": "node solució.js",
-    "alternativa": "node solució_alternativa.js"
+    "solucio": "node solució.js"
   }
 }
